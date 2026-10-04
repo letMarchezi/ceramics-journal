@@ -1,0 +1,11 @@
+# Xcode / XcodeGen
+*.xcodeproj
+xcuserdata/
+DerivedData/
+build/
+build-ceramic/
+*.xcresult
+.DS_Store
+
+# Swift Package Manager
+.build/
